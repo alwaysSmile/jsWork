@@ -69,10 +69,7 @@ function g(object, func, args) {
 g(o, f1, ["the value of x = "]);
 g(o, f2, ["the value of x squared = ", ". Wow!"]);
 //*****************
-//*****************
 
-
-//*****************
 
 
 
